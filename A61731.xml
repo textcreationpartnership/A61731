@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the assizes held at Dorchestor in the county of Dorset, upon the fourth day of March in the year of our Lord 1669 by John Straight ...</title>
+            <author>Straight, John, 1605?-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61731</idno>
+            <idno type="STC">Wing S5808A</idno>
+            <idno type="STC">ESTC R9809</idno>
+            <idno type="EEBO-CITATION">13768461</idno>
+            <idno type="OCLC">ocm 13768461</idno>
+            <idno type="VID">101733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 852:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the assizes held at Dorchestor in the county of Dorset, upon the fourth day of March in the year of our Lord 1669 by John Straight ...</title>
+                  <author>Straight, John, 1605?-1680.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Thomas ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Containing the metaphorical description of a sincere Christian: 1, by his care and providence, 2, by his pains and industry, 3, by his wisdome and discretion, 4, by the ensuing perils and dangers, 5, by the invalidity of all perills and dangers, 6, by the cause and reason of this firm validity."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke VI, 48 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101733:1"/>
+            <pb facs="tcp:101733:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the ASSIZES Held at <hi>Dorcheſtor</hi> in the County of <hi>Dorſet,</hi> upon the fourth day of <hi>March</hi> in the year of our Lord 1669.</p>
+            <p>By <hi>JOHN STRAIGHT.</hi> Maſter of Arts, ſometimes a Member of Queens Colledge in <hi>Cambridge,</hi> now Vicar of <hi>Stourepain</hi> in the County of <hi>Dorſet,</hi> and Chaplain to the right Re<g ref="char:EOLhyphen"/>verend Father in God, <hi>John</hi> late Lord Biſhop of <hi>Sarum.</hi>
+            </p>
+            <p>CONTAINING The Metaphorical deſcription of a ſincere Chriſtan:
+<list>
+                  <item>1. By his care and providence.</item>
+                  <item>2. By his pains and induſtry.</item>
+                  <item>3. By his wiſdome and diſcretion.</item>
+                  <item>4. By the enſuing perils and dangers.</item>
+                  <item>5. By the invalidity of all perills and dangers.</item>
+                  <item>6. By the cauſe and reaſon of this firm validity.</item>
+               </list>
+            </p>
+            <q>
+               <p>Non dormientibus provenit Regnum coelorum, nec otio &amp; deſi<g ref="char:EOLhyphen"/>dia torpentibus Beatitudo aeternitatis repromittitur, <bibl>Leo.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>For we are his workmanſhip created in Chriſt Jeſus unto good works which: God hath ordained that we ſhould walk in them, <bibl>Eph. 2. 10.</bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Thomas</hi> at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Brittain.</hi> 1670.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101733:2"/>
+            <pb facs="tcp:101733:2"/>
+            <head>TO THE Right Worſhipful <hi>ROBERT BARKER</hi> 
+               <abbr>Esq</abbr> High Sheriffe of the County of <hi>Dorſet.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough I have often experimented the infallibility of that Adagie <hi>(veritas odium parit)</hi> yet I cannot account it fit that truth ſhould be concealed, nor clanculary crowded up into a corner: The truth therefore is this, (you know it Sir, and I am willing that others ſhould be made acquainted with it alſo) that I was very unwilling to undertake to Preach at the Aſſizes for you: You muſt needs acknowledge the many arguments I uſed to excuſe my ſelf from it: As Firſt, my age being now paſt my Ninth and great Climaterical: Secondly, the craſineſs of my body, Thirdly, my frequent diſtempers, both of the vellicating Stone and torturing Gout, all which were not only great im<g ref="char:EOLhyphen"/>pediments to my due preparation for ſuch a ſervice, but might have taken me off and utterly diſinabled me to do it at the de<g ref="char:EOLhyphen"/>ſtined time for it. But none of theſe (to make uſe of <hi>Terence</hi> his phraſe) could <hi>cauſam dicere</hi> with you: No nor could all theſe together prevail to paſs by me, and perſwade you to pitch upon another more fit for that imployment. And now ſince that is paſt you have proceeded to another poſtulate, <hi>viz.</hi> to requeſt and that not barely, <hi>petere,</hi> but <hi>expetere,</hi> the pub<g ref="char:EOLhyphen"/>lication of thoſe my poor and weak indeavours; you continue preſſing of me to be in the preſs again. Give me leave Sir to expoſtulate with you a little with the Poet:<note place="margin">
+                  <hi>Proper.</hi>
+               </note>
+               <q>
+                  <l>Quid meſcribendi tam vaſtum mittis in equor?</l>
+                  <l>Non ſunt apta m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae grandia vela rati.</l>
+               </q>
+            </p>
+            <p>I muſt alſo tell you further Sir, that I had even almoſt Proteſted againſt Printing in ſuch times as theſe are, in which
+<pb facs="tcp:101733:3"/> that ingenious invention is ſo much abuſed with contentious and uſeleſs, I might add pernicious and ſeditious Pamphlets. But ſeeing your importunity will not receive a modeſt denyal, I have now therefore thus farre yielded to your requeſt, that after a ſerious ſcanning of theſe my rude notes (if they hap<g ref="char:EOLhyphen"/>pen to gain the favour of an Imprimantur) they then ſhould be publiſhed to the peruſal of others. And then Sir, if after their paſs they chance to meet with the whip of ſome cenſori<g ref="char:EOLhyphen"/>ous diſpoſitions (of which ſort of people the world is now too full) who will perhaps ſay that theſe thing are too mean for this ripe and exquiſite Age, I for my part ſhall acknowledge them to be ſo, and you muſt bare the blame who have forced them from me: Yet withal let me deſire ſuch to conſider, that at the building of Solomons Temple, there was room as well for the burden bearers as for other more curious Artificers; and at the making of the Tabernacle, not only the bringers of blew Silk and Purple and Scarlet, <note place="margin">Exod. 25. 4, 5.</note> but even the pooreſt which brought but Goats hair and Rambs Skins were accep<g ref="char:EOLhyphen"/>ted. However it happen, this is my comfort, that they that know my reſervedneſs, will acquit me from popularity and ſeeking my ſelf abroad, and will not brand me with that bu<g ref="char:EOLhyphen"/>ſie humour by which too many in this ſcribling age, have e<g ref="char:EOLhyphen"/>ven made the times to ſurfeit with their needleſs papers. Sir, I have now but two things more to ſay, The one of which is to you, and the other is for you. That which I have to ſay to you is this, That if this my Sermon ſhall afford any good ei<g ref="char:EOLhyphen"/>ther to your ſelf, or to any other truely fearing God, I ſhall not then repent my giving way to the granting of your de<g ref="char:EOLhyphen"/>ſires by my thus imparting it to pulick view. The other thing is a Supplication for you, that the God of goodneſs would perpetuate your preſent happineſs here in this world, and crown you with everlaſting happineſs hereafter in the World to come, and this is the hearty prayers of him who is</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your nearly related and humbly devoted Servant, <hi>John Straight.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101733:3"/>
+            <head>To the Indulgent READERS.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Enevolent friends, it were but loſt labour to tell you why I gave way to the Printing of this Sermon: I have ſaid enough of that before, and ſhall not now nauſeate you with a crambe. You ſee what importunity can do, even with thoſe of the moſt private and retired diſpoſitions I muſt now acquaint you that I expect not to eſcape the laſh of cenſure, as having had ſome experience thereof, by the printing of a former Sermon upon a juſt occaſion mentioned in the Epiſtle to the Reader: When I was by ſome malevolent ſpirits ſtigmatized with the title of a vain-glorious perſon for it: As if an affectation of publick notice had only put me upon the publication of thoſe mean conceptions, when as the Lord knows how conſcious I was, and yet am of my own weakneſs and defects. But there is I ſee, a ſpirit of pride and bitterneſs in too many, <note place="margin">Saint <hi>Aug.</hi>
+               </note> 
+               <hi>qui vel non intelligendo reprehendunt, vel reprehendendo non intelligunt</hi> as Saint <hi>Auſtin</hi> ſpeaks. And to ſuch igno<g ref="char:EOLhyphen"/>rant uncharitable cenſurers I wiſh either a more ſound judg<g ref="char:EOLhyphen"/>ment, or a more ſober affection. The deſire to diſgrace ano<g ref="char:EOLhyphen"/>ther certainly cannot ſpring from a good root. <note place="margin">
+                  <hi>Seneca.</hi>
+               </note> 
+               <hi>Cupio ſi fieri poteſt propitiis auribus quid ſentiam dicere, ſin minus dicam &amp; iratis</hi> as ſomtime <hi>Seneca</hi> ſaid. I am con<g ref="char:EOLhyphen"/>tented to receive a ſcarre from <hi>Zoilus,</hi> ſo as ſome others may eſcape a wound, having learned in ſome meaſure from the bleſſed Apoſtle to go through all reports. <note place="margin">
+                  <hi>Seneca.</hi>
+               </note> 
+               <hi>Male autem de te opinantur homines ſed Mali,</hi> ſaith <hi>Seneca, Moverer, ſide me Marius, ſi Cato ſi Leſius ſapiens, ſi alter Cato, ſi Scipi<g ref="char:EOLhyphen"/>ones duo iſta loquerentur moverer, ſi hoc judicio facerent, quod nunc morbo faciunt.</hi> I only add <hi>Martials</hi> quirp to
+<pb facs="tcp:101733:4"/> ſuch kind of carping back-biters and <hi>Procuſtean</hi> Tyrants, and ſo diſmiſs them <note place="margin">
+                  <hi>Mar. Epigr.</hi> l. 11. <hi>Epigr.</hi> 93.</note> 
+               <hi>Mentitur qui te vitioſum Zoile dixit; non vitioſus homo es, Zoile, ſed Vitium.</hi> And thus return<g ref="char:EOLhyphen"/>ing to the moderate, unprejudiced and candid Readers hereof, to whoſe conſiderate and prudent inſpection and revi<g ref="char:EOLhyphen"/>ſing I commit it, deſiring that they may rather ſee more than they expect, than look for more than they find in it. And if then after their peruſal they acquire any emolument, either of delight to pleaſe their fancy, or of wholſome inſtruction to regulate their converſation, let them bleſs God, thank the High Sheriffe of the County of <hi>Dorſet,</hi> and ſend up a Supplication to Heaven for me, who do unfeignedly deſire the truth of Grace in them, and the increaſe of it alſo on all the Iſrael of God, and am</p>
+            <closer>
+               <signed>Your most humble Servant in the work of the Miniſtry JOHN STRAIGHT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101733:4"/>
+            <head>A SERMON Preached at the Aſſizes held at <hi>Dorcheſter</hi> in the County of <hi>Dorſet, March</hi> the 4<hi>th</hi> 1669.</head>
+            <epigraph>
+               <bibl>Luke 6. 48.</bibl>
+               <q>
+                  <p>He is like a man that built an houſe and digged deep and laid the foundation on a rock, and when the waters aroſe the floods beat upon that houſe and could not ſhake it, for it was founded on a Rock.</p>
+               </q>
+            </epigraph>
+            <div type="section">
+               <p>SAint <hi>Paul</hi> travelling from <hi>Malta</hi> to <hi>Rome</hi> ſailed <note place="margin">Act. 28. 11.</note> in a Ship of <hi>Alexandria</hi> whoſe badge (by which Ships are uſually diſcerned one from another) was <hi>Caſtor</hi> and <hi>Pollux.</hi> Gods Children are travel<g ref="char:EOLhyphen"/>ling hence to Heaven, and ſailing through the turbulent waves of this troubleſome World, to the tran<g ref="char:EOLhyphen"/>quil Haven of eternal happineſs; though not in a Ship of <hi>Alexandria,</hi> yet in the bark of their bodies; their badg to diſcry them from hypocritical time-ſervers, and cog<g ref="char:EOLhyphen"/>nizance to diſcover them from ſuch as call Chriſt Lord, Lord, but do not the things that he ſpeaks, is not <hi>Caſtor</hi> and <hi>Polux, but he that heareth my word and doth the ſame, he is like a man that built a houſe, and digged deep and laid the foundation on a Rock, and when the waters aroſe, the floods beat upon that houſe, and could not ſhake it, for it was founded on a Rock.</hi>
+               </p>
+               <pb n="2" facs="tcp:101733:5"/>
+               <p>The words (you ſee) are the cognizance of a ſincere Chriſtian, the very badge of a true beleiver, Metaphorical<g ref="char:EOLhyphen"/>ly deciphered out unto your view by theſe ſix ſubſequent things</p>
+               <p>Firſt, by his care and providence, in building him a houſe.</p>
+               <p>Secondly, by his pains and induſtry in digging deep.</p>
+               <p>Thirdly, by his wiſdome and diſcretion, in laying his foundation on a Rock.</p>
+               <p>Fourthly, by the enſuing perils and dangers, in the ri<g ref="char:EOLhyphen"/>ſing of the waters and beating of the flood.</p>
+               <p>Fifthly, by the invalidity and weakneſs of thoſe perils and dangers, in that they could not ſhake it.</p>
+               <p>Sixththly and laſtly, by the cauſe and reaſon of its firm validity, <hi>for it was founded on a Rock. He is like a man which</hi> &amp;c.</p>
+               <p>A ſound and ſincere Chriſtian, is firſt deſcribed by his care and providence in building him a houſe, <hi>He is like a man which built an houſe.</hi> I find in Scripture four kindes of Builders. Firſt, God himſelf. Secondly, Gods Miniſters. Thirdly, one building up another. And Fourthly, every particular Chriſtian building up himſelf.</p>
+               <p>The firſt kind of Builder is God himſelf: So the <hi>Pſal<g ref="char:EOLhyphen"/>miſt; except the Lord build the houſe, their labour is but loſt</hi> 
+                  <note place="margin">Pſal. 127. 1.</note> 
+                  <hi>that built it.</hi>
+               </p>
+               <p>Now God he builds four ſorts of houſes. As Firſt, a houſe of his providence, to wit, the great and glorious fabrick of this Univerſe, <hi>The Heavens declare the glory of God, and the firmament ſheweth his handy work.</hi> Secondly, a houſe of his <note place="margin">Pſal. 19. 1. 1 Cor. 6. 19.</note> ſpirit. <hi>Know ye not that your bodies are the Temples of the Holy Ghoſt which is in you,</hi> ſo the Apoſtle. Thirdly, a houſe of correction for thoſe that are incorrigible. <hi>Tophet</hi> is or<g ref="char:EOLhyphen"/>dained <note place="margin">Iſa. 30. 33.</note> of old, ſaith the Prophet <hi>Iſaiah.</hi> Fourthly and laſt<g ref="char:EOLhyphen"/>ly, a white-Hall, a Star-Chamber, a houſe of glory, <hi>not made with hands, but eternal in the Heavens,</hi> ſo Saint <hi>Paul.</hi> 
+                  <note place="margin">2 Cor. 5. 1.</note> Let the houſe of Gods providence baniſh diſtruſt, and teach us thankfulneſs. Let the houſe of his Spirit, bridle
+<pb n="3" facs="tcp:101733:5"/> our carnal concupiſcence, and induce us to conſecrate our bodies a living ſacrifice holy, acceptable unto God. <note place="margin">Rom. 12. 1.</note> Let his houſe of correction make us tremble at ſin, and move us to newneſs of life. And laſtly, let his houſe of glory inſtruct us to wean and withdraw our affections from the tranſitory things of this preſent World, and <note place="margin">Phil. 1. 23.</note> perſwade us to a longing with Saint <hi>Paul, to be diſſolved and to be with Chriſt which is beſt of all.</hi> And this of the firſt knd of Builders.</p>
+               <p>2. Gods Miniſters are a ſecond kind of Builders. <hi>For behold this day have I ſet thee over the Nations, and over the Kingdoms to pluck up and to root out, to deſtroy and to throw down, to build and to plant,</hi> its God own commiſ<g ref="char:EOLhyphen"/>ſion <note place="margin">Jer. 1. 10.</note> to the Prophet <hi>Jeremiah.</hi> Now theſe they build three manner of wayes: <hi>Verbo, Vita &amp; Precibus.</hi> By Preaching, by Practiſing, and by Praying.</p>
+               <p>Firſt, By preaching, <hi>Peter loveſt thou me? feed my</hi> 
+                  <note place="margin">Joh. 21. 17. Phil 3. 17.</note> 
+                  <hi>Lambs.</hi>
+               </p>
+               <p>Secondly, by practiſing. <hi>Brethren be followers of me, and look on them which walk ſo as you have us for an exam<g ref="char:EOLhyphen"/>ple.</hi>
+               </p>
+               <p>Thirdly, by praying. <hi>For this cauſe we ceaſe not to pray</hi> 
+                  <note place="margin">Cor. 1. 9.</note> 
+                  <hi>for you, and to deſire that ye might be filled with the knowledge of his wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l in all wiſdome and ſpiritual underſtanding,</hi> ſo St <hi>Paul.</hi>
+               </p>
+               <p>3. A Third kind of Builder, is one building up ano<g ref="char:EOLhyphen"/>ther: <hi>Wherefore exhort one another, and edifie one another, even as ye do, ſo the Apoſtle Jonathan</hi> muſt build up <hi>David,</hi> 
+                  <note place="margin">1 Theſ. 5. 11.</note> and <hi>David Jonathan. Brethren if a man be ſuddenly taken in any offence, ye which are ſpiritual reſtore ſuch a one with</hi> 
+                  <note place="margin">Gal. 6. 1.</note> 
+                  <hi>the ſpirit of meekneſs,</hi> the word in the Original is <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> build him up by putting him in joynt again.</p>
+               <p>4. The Fourth and laſt kinde of Builder, is every par<g ref="char:EOLhyphen"/>ticular Chriſtian building up himſelf. So Saint <hi>Jude</hi> in his <note place="margin">Jude verſ. 20.</note>
+                  <pb n="4" facs="tcp:101733:6"/> General Epiſtle. <hi>But Beloved edifie your ſelves in your moſt holy faith. And this is he that heareth the word of God and doth it:</hi> This is he whoſe foundation is faith, and whoſe houſe is good works. <note place="margin">
+                     <hi>Bonav.</hi>
+                  </note> 
+                  <hi>Similis eſt hic aedificanti domum pe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> profectum virtutum,</hi> ſo <hi>Bonaventure;</hi> this is he <hi>which is like a man that built an houſe.</hi>
+               </p>
+               <p>
+                  <hi>Obſ.</hi> Gods Children they are not careleſs hearers but careful builders: Their Religion reſts not in the ear, rowles not in the eye. floates not on the tongue, nor in a word doth it only conſiſt in the bare ſhew of outward holineſs; No, no, its foundation remains in the heart, and its rootes in the inner man: <hi>They hear the word and keep it, and bring forth fruit with patience,</hi> ſo our Savi<g ref="char:EOLhyphen"/>our tells us; they ſeek not ſo much to ſeem, as indeed to be religious; they are therefore builders not of ſlight <note place="margin">Luk. 8. 15.</note> or ſuperficial boothes, but of ſolid and ſubſtanſtial build<g ref="char:EOLhyphen"/>ings; <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>He is like a man that built an houſe.</hi> 
+                  <note place="margin">
+                     <hi>Dyoniſ. Carthuſ.</hi>
+                  </note> 
+                  <hi>Qui verbis Chriſti obedit ſpiritualem demum, ſecretum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mentis thalamum, el virtutum, aedificati<g ref="char:EOLhyphen"/>onem, bonorum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> actuum nexum fundat</hi> ſo <hi>Dyoniſius Carthu<g ref="char:EOLhyphen"/>ſianus.</hi> He that yields prompt obedience to Chriſts com<g ref="char:EOLhyphen"/>mands builds himſelf a ſpiritual houſe, a ſecret Cabinet of his mind, a building of vertues, and a cloſe compacted te<g ref="char:EOLhyphen"/>nement of good deeds. Good works beloved they are the ſtructure of every Chriſtian builder, the inſeparable com<g ref="char:EOLhyphen"/>panions of every true beleiver. This is a true ſaying ſaith Saint <hi>Paul, and theſe things I will that thou ſhouldeſt af<g ref="char:EOLhyphen"/>firm;</hi> 
+                  <note place="margin">Tit. 3. 8.</note> 
+                  <hi>that they which have beleived God, might be careful to ſhew forth good works.</hi> Faith muſt be ſhewed by good works: <hi>For as the body without the ſpirit is dead, even ſo, Faith without works is dead</hi> alſo Saint <hi>James.</hi> 
+                  <note place="margin">James 2 18.</note>
+               </p>
+               <p>Faith therefore though it be the foundation of good works and evidence of things not ſeen, yet it is nothing worth if works be wanting, nor can it juſtifie any man be<g ref="char:EOLhyphen"/>fore God, unleſs by good works it ſelf, be juſtified before men. <hi>Was not Abraham our Father juſtified through good</hi> 
+                  <note place="margin">James 2. 21.</note> 
+                  <hi>works,</hi> ſaith Saint <hi>James, when he offered Iſaac his Son up<g ref="char:EOLhyphen"/>on the Altar</hi> that is, was he not by his works known
+<pb n="5" facs="tcp:101733:6"/> and found to be juſtified? Did not <hi>Jobs</hi> works thus ma<g ref="char:EOLhyphen"/>nifeſt his faith? Who was no leſs than <hi>eyes to the blind, feet to the lame and a pittiful Father to the diſtreſſed poor,</hi> as he teſtifies of himſelf. Yea as poſſible it is to ſeparate light from its fountain the Sun, as good works from ſaving <note place="margin">Job 29 15, 16. Tit. 1. 16.</note> faith the mother.</p>
+               <p>Uſe 1. What then ſhall we think of all thoſe that have on<g ref="char:EOLhyphen"/>ly a form of Godlineſs denying the power thereof: Such as profeſs that they know God &amp; yet by works deny him, and are abominable and diſobedient, and to every good work even reprobates, as St <hi>Paul</hi> ſpeaks of them to <hi>Ti<g ref="char:EOLhyphen"/>tus.</hi> Surely beloved theſe though perhaps they may acount themſelves in the number of Gods faithful builders, yet are they indeed no better than <hi>Babel</hi> builders, building to themſelves nothing elſe but aerial Caſtles of ſad and ſempiternal confuſion; clouds they are without water carried about of windes, corrupt trees without fruit twice dead, and pluckt up by the roots, wandering Stars to whom is reſerved the blackneſs of darkneſs for <note place="margin">Jude verſ. 12.</note> evermore, ſo <hi>Jude</hi> in his general Epiſtle verſe 21. <hi>Serpit hodie putrida tabes hypocriſis per omne corpus Eccleſiae &amp; quo tolerantius eo deſperatius, eo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> periculoſius quo com<g ref="char:EOLhyphen"/>munius.</hi> 
+                  <note place="margin">
+                     <hi>Bern.</hi>
+                  </note> The corrupt conſumption of counterfeiting hy<g ref="char:EOLhyphen"/>pocriſie creeps at this day through the whole body of the Church, which is ſo much the more deſperate, ſo much the more dangerous, by how much the more indured, by how much the more common 'twas the complaint of good Saint <hi>Bernard</hi> in his time, and I would to God there were not as great need at this time for me to make it mine; for do no not all, or at leaſt, moſt of all, ſlighting ſincerity, content themſelves with the bare ſhew and formality of Religion? Nay, which is worſe, is not religion commonly made a cloak to palliate deformed vice, which ſeldome or never dare ſhew her ſelf in publick, unleſs ſhe ſteal the robes of vertue, and actuate her miſcheif with ſly hypo<g ref="char:EOLhyphen"/>criſie: Is not <hi>Phariſaical</hi> avarice now vailed under a pre<g ref="char:EOLhyphen"/>tence of long prayers as ſometimes we read it was in our <note place="margin">Math. 23. 14.</note> bleſſed Saviours time? Is not <hi>Herodians</hi> cruelty now co<g ref="char:EOLhyphen"/>vered
+<pb n="6" facs="tcp:101733:7"/> over with the vizard of holy devotion as heretofore it was with a <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that I may come and <note place="margin">Math. 2. 8.</note> worſhip him? Yes, yes, we are I fear moſt of us all like whi<g ref="char:EOLhyphen"/>ted tombs appearing beautiful outward, but are within full of rottenneſs: We have fair leaves but foul fruit, good words but no good works, and yet we would be count<g ref="char:EOLhyphen"/>ed in the number of Gods faithful builders too; but let us not, O let us not dear Brethren I beſeech you, any longer deceive our ſelves with a vain conceit of couzening God, who is not mockt like men with ſhadowes, nor yet miſlead like us with outward ſhews. Let us not think to mask our impiety from his omniſcient Majeſty under religious pretences, nor yet to muffle our hypocri<g ref="char:EOLhyphen"/>ſie under the garment of zealous devotion. No, no, <note place="margin">
+                     <hi>Bonav.</hi>
+                  </note> 
+                  <hi>Oſtenſio enim reverentiae in ore fallax eſt, niſi adſit pariter exhibitio obedientiae in opere</hi> as <hi>Bonaventure</hi> well obſerves; <hi>in vain do they honour God with</hi> 
+                  <note place="margin">Iſa. 29. 13, 14.</note> 
+                  <hi>their lips, whoſe hearts are farre from him,</hi> ſo the Prophet <hi>Iſaiah.</hi> Who ſhall aſcend into the Mountain of the Lord? <note place="margin">Pſal. 24. 3, 4.</note> and who ſhall ſtand in his holy place? 'twas the queſtion of worthy <hi>David,</hi> and his anſwer immediately follows, <hi>even he that hath innocent hands and a pure heart, that hath not lift up his mind unto vanity, nor ſworn to deceive his neighbour.</hi> 
+                  <note place="margin">
+                     <hi>Chryſ.</hi>
+                  </note> Anſwer me now O diſſembling hypocrite (ſaith Saint <hi>Chryſoſtome</hi>) if it be good to appear good, why wilt thou not be, that which thou wouldeſt fam ap<g ref="char:EOLhyphen"/>pear to be? And if it be ill to appear ill, why wilt thou be that which thou wouldſt not appear to be? but if it be good to appear good, 'tis than farre better to be good: and if it be ill to appear ill, 'tis farre worſe to be ill; be therefore that which thou appeareſt, or elſe appear what thou art, ſo farre Saint <hi>Chryſoſtome.</hi> Check now thy ſelf thou vermonger, that with a madding thought thus chaſeſt fleeting ſhadows: for frivolous it is for thee exter<g ref="char:EOLhyphen"/>nally to profeſs thy ſelf the ſervant of Chriſt and yet to wear the devils Livery. In vain it is for thee to acknow<g ref="char:EOLhyphen"/>ledge God to be thy only Lord in publick prayer, and yet to obey in all things the world, the fleſh and the devil in
+<pb n="7" facs="tcp:101733:7"/> thy private practiſe: Yea impious it is to be thus the di<g ref="char:EOLhyphen"/>vils <note place="margin">1 Cor. 4. 20. Rom. 2 13.</note> builders in ſubſtance and Gods only in ſhew; <hi>Non e<g ref="char:EOLhyphen"/>nim in verbis ſitum eſt regnum Dei,</hi> for the Kingdome of God is not in word ſaith the Apoſtle: <hi>Non Auditores ſed factores legis juſtificabuntur;</hi> not the hearers but the do<g ref="char:EOLhyphen"/>ers of the Law ſhall be juſtified, ſo the ſame Apoſtle <hi>Quid</hi> 
+                  <note place="margin">Iam. 1. 22.</note> 
+                  <hi>vocatis me domine, domine, &amp;c. Why call ye me Lord, Lord, and do not the things that I ſpeak</hi> ſaith our Saviour. <hi>Be ye therefore doers of the word, and not hearers only deceiving</hi> 
+                  <note place="margin">Math. 7. 21.</note> 
+                  <hi>your own ſelves,</hi> ſo Saint <hi>James. For not every one that ſaith Lord, Lord, ſhall enter into the Kingdome of Heaven, but he that doth the will of my Father which is in Heaven,</hi> ſo likewiſe our Saviour Chriſt. Labour not therefore a<g ref="char:EOLhyphen"/>ny longer (dear Brethren) I beſeech you to cover your nakedneſs with the fig-leaves of vain-glorious hypocriſie, but now at length indeavour to compaſs your loyns with the girdle of ſincerity, that ſo ye may be found of God, not fictitious, but faithful builders, not ſupine, but in<g ref="char:EOLhyphen"/>duſtrious doers, which is the ſecond thing, by which a ſound Chriſtian is here deſcribed, <hi>viz.</hi> by his pains and induſtry in digging deep, and cometh next in order to be ſpoken of.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <q>
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> qui fodit &amp; fodit in altum, which digged, and digged deep.</q>
+               </head>
+               <p>Idlenſs (beloved) is a cruel ſtepdame to vertue, and want of employment, the moſt corrupting fly that can blow in any humane mind. <note place="margin">Ezek. 16. 49.</note> By this <hi>Egiſtus</hi> grew adulte<g ref="char:EOLhyphen"/>rate, by that the <hi>Sodomites</hi> inceſtuous He therefore that would be a good Chriſtian, he muſt take pains, he muſt dig deep <note place="margin">
+                     <hi>Bonav.</hi>
+                  </note> 
+                  <hi>Per deſcenſum humilitatis</hi> as <hi>Bonaventure</hi> ſpeaks, <note place="margin">
+                     <hi>Stella.</hi>
+                  </note> 
+                  <hi>Dura poenitentiae opera exercendo,</hi> ſo <hi>Stella</hi> commenting on this place. We muſt not think to go to Heaven with a wet finger, 'tis not a Lord have mercy on us will bring us thither: No, Beloved, we muſt be digged, yea and deep digged too here in Gods vineyard, before we can come to receive our reward: We muſt weep, we muſt watch, we muſt pray in the evening, morning and at noon-day, and that inſtantly: We muſt ſearch the Scri<g ref="char:EOLhyphen"/>ptures
+<pb n="8" facs="tcp:101733:8"/> with diligence, read Gods word with delight, and meditate in the ſame with continuance both day and night. <hi>Non eſt à terris mollis ad aſtra via.</hi> The way to Heaven is no eaſie way, 'tis no going thither in a Fea<g ref="char:EOLhyphen"/>ther bed: <note place="margin">Menand.</note> 
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, if thou wilt be happy thou muſt labour for it, ſo <hi>Menander:</hi> Many there are I know who fain would go to Heaven, but loth they are to take the pains: gladly would they enter in at the ſtreight gate that leads to life, but loth they are to ſtrive: yea and willingly would they receive the penny, but loth they are to undergo the labour. <hi>Sed numen non favet otioſis nec pigris, vult enim ſua munera ad nos per noſtram venire indu<g ref="char:EOLhyphen"/>ſtriam,</hi> ſo <hi>Plutarch.</hi> The ſupreme power cares not (ſaith he) for ſluggiſh and ſloathful perſons, but will have his gifts come to us through our own induſtry.</p>
+               <p>
+                  <hi>Applic.</hi> Away then, away, I ſay, with that dangerous and diabolical ſuggeſtion of Satan; if I am prediſtinated to ſalvation, I ſhall certainly be ſaved: I'le therefore take neither care nor pains, but live as I liſt. No, no, beloved our induſtry muſt co-opperate with the grace of God inciting us, and diligence muſt be given <hi>to make our calling and election ſure,</hi> ſo Saint <hi>Peter</hi> tells <note place="margin">2 Pet. 1. 10.</note> us. For though it be moſt ſure in Gods electing purpoſe: Yet can no man know the certainty of it, but only by this, <hi>viz.</hi> by yielding prompt obedience to Gods command<g ref="char:EOLhyphen"/>ments, by joyning vertue with faith and with vertue knowledge, with knowledge temperance, and with tem<g ref="char:EOLhyphen"/>perance patience, with patience godlineſs, with god<g ref="char:EOLhyphen"/>lineſs brotherly kindneſs, and with brotherly kindneſs <note place="margin">2 Pet. 15, 6, 7. 8.</note> love: For if theſe things be among you and abound, they will make you that you neither ſhall be idle, nor unfruit<g ref="char:EOLhyphen"/>ful in the acknowledging of our Lord Jeſus Chriſt ſo farre Saint <hi>Peter.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> 2. Be admoniſhed now therefore O ye fruitleſs fig-trees at length to bring forth fruit worthy of repentance, and cumber not the ground here in Gods vineyard with barren idleneſs: Let not your Talent which God hath lent
+<pb n="9" facs="tcp:101733:8"/> you lye ruſting in a napkin, but now imploy it to the beſt advantage; and if you would be partakers with Gods children in their happy recompence, be you ſure then to participate with them in their laborious paines. <hi>Socra<g ref="char:EOLhyphen"/>tes</hi> I remember, reports of one, that quenched his ardent deſires of going to ſee the olympick Games, with the thought of the tedious travaile thither; but farre be this from us beloved: Let not the conceit of a painful paſſage to eternal happineſs, deterre any of us from under<g ref="char:EOLhyphen"/>taking this ſo profitable though painful a journey thither, nor drive us with the unjuſt Steward in the Goſpel, to <note place="margin">Luk. 16. 3.</note> 
+                  <hi>a quid faciam? fodere non valeo:</hi> to a what ſhall I do? I can<g ref="char:EOLhyphen"/>not dig No, no, <note place="margin">
+                     <hi>Hierom.</hi>
+                  </note> 
+                  <hi>Nam nullus labor durus, nullum tempus longum videri debet, quo gloria aeternitatis acquiritur</hi> as St <hi>Hierom</hi> ſpeaſts No labour ought to ſeem great, no time to be eſteemed greivous, by which eternal glory is attained. There was never good thing eaſily come by. The Hea<g ref="char:EOLhyphen"/>then man could ſay, that the Gods did ſell knowledge for ſwet; and ſo may I ſay, that our God ſells Heaven for induſtry; <note place="margin">
+                     <hi>Plutarch.</hi>
+                  </note> wherefore my beloved brethren, <hi>work,</hi> yea and dig <hi>out your ſalvation with fear and trembling, fight the</hi> 
+                  <note place="margin">2 Tim. 4. 7. 1 Cor. 9. 24. 1 Cor. 15. 58.</note> 
+                  <hi>good fight, and ſo run the race of Chriſtianity here, that ye may obtain the Crown of immortality hereafter: Be ye ſtedfaſt and unmoveable, and abundant alway in the work of the Lord foraſmuch as ye know that your labour is not in vain in the Lord.</hi> And thus I paſs from this ſecond thing by which a ſincere Chriſtian is here deſcribed, <hi>viz.</hi> from his paines and induſtry in digging deep, unto the third, which is his wiſdome and diſcretion, in laying his foundation on a Rock.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <q>
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. And laid his foundation on a Rock.</q>
+               </head>
+               <p>The Papiſts though perhaps hitherto may ſeem to ap<g ref="char:EOLhyphen"/>propriate this deſcription to themſelves alone, or at the leaſt to challenge a priority in it before us Proteſtants, and that becauſe they are moſt beautiful builders in works of merit, moſt induſtrious laborers in painful pilgri<g ref="char:EOLhyphen"/>mages,
+<pb n="10" facs="tcp:101733:9"/> yea, and moſt deep diggers too, even under Par<g ref="char:EOLhyphen"/>liament houſes; yet becauſe they are defective in this third thing, by which a true beleiver is here deſcribed, <hi>viz.</hi> becauſe they want wiſdome to lay their foundation on a Rock, they are therefore hence excluded from among the number of Gods faithful and fruitful builders, who do not only build houſes and dig deep, but lay their founda<g ref="char:EOLhyphen"/>tion alſo upon a Rock: <hi>Poſuit<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fundamentum ſupra petram: And laid his foundation on a Rock. Poſitio eſt or do partium in loco,</hi> ſo the Philoſopher: Poſition is the true ordering of ſeve<g ref="char:EOLhyphen"/>ral parts in their proper place; hence therefore after the removal of all impedimental rubbiſh taken away by our digging deep, immediately here followeth a <hi>poſitio fun<g ref="char:EOLhyphen"/>damenti,</hi> a laying a foundation. <hi>Which foundation is faith in Chriſt: for other foundations can no man lay</hi> ſaith the <note place="margin">1 Cor. 3, 11.</note> Apoſtle. Now this foundation of faith muſt be laid upon a Rock, <hi>even upon that ſpiritual Rock Chriſt Jeſus,</hi> as the <note place="margin">1 Cor. 10. 4.</note> ſame Apoſtle ſpeaks, <hi>Non ſuper petrum, ſed ſuper petram:</hi> Not upon <hi>Peter,</hi> nor yet his ſucceſſors (the <hi>Popes</hi> I mean) as the <hi>Papiſts</hi> would fain have it meant; but upon that firm, ſollid and immoveable Rock of <hi>Peters</hi> confeſſion <note place="margin">Math. <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. 16. 18</note> 
+                  <hi>(Thou art the Son of the living God)</hi> upon this Rock will I build my Church ſaith our Saviour: As if he ſhould have ſaid, upon this thy firm confeſſion by which thou doſt acknowledge and beleive me to be Chriſt the Son of the living God, will I build my Church, Flock and Family, and them will I endue by my ſpirit with the like faith in me. That confeſſion which thou haſt made, ſhall be the foundation of all beleivers, ſo <hi>Theophylact. Supra Petram aedificat, qui ſupra Chriſtum aedificat</hi> ſo <hi>Stella, He that buildeth and layeth his foundation on Chriſt buildeth and layeth it on a Rock.</hi>
+               </p>
+               <p>Four reaſons I find, why Chriſt may and that not un<g ref="char:EOLhyphen"/>fitly be reſembled to a Rock.</p>
+               <p>Firſt, Becauſe a Rock is a ſound, firm and ſtable ſtone, <hi>Petca enim eſt rupes penitus immobilis:</hi> on which who<g ref="char:EOLhyphen"/>ſoever buildeth, buildeth moſt ſtrongly, buildeth moſt ſurely. Chriſt in like manner, is a ſtone, yea, a corner
+<pb n="11" facs="tcp:101733:9"/> ſtone, utterly unmoveable, <hi>He that buildeth on him, buildeth moſt firmly, buildeth moſt ſafely, againſt whom</hi> 
+                  <note place="margin">Math 16, 18</note> 
+                  <hi>the Gates of Hell cannot prevail.</hi>
+               </p>
+               <p>Secondly, a rock is a ſtone, as well of offence as defence; it defendeth and keepeth from ruine that which is built up<g ref="char:EOLhyphen"/>on it: ſo likewiſe doth it offend and break to peices all obſtacles, that ſhall juſtle againſt it. Chriſt in like man<g ref="char:EOLhyphen"/>ner is a ſtone of offence as well as defence: as he defend<g ref="char:EOLhyphen"/>eth and keepeth his Elect that are founded and built upon him from ruine and deſtruction: So likewiſe doth he of<g ref="char:EOLhyphen"/>fend and break to peices like potters veſſels all wicked and ungodly obſtacles, that ſhall juſſel againſt him, to them is he made a ſtone to ſtumble at, and a Rock of offence as Saint <hi>Peter</hi> ſpeaketh. And that they that juſtle againſt Chriſt thus, muſt needs be confounded: hear what our <note place="margin">1 Pet. 2. 8</note> Saviour Chriſt himſelf ſaith; <hi>Whoſoever ſhall fall on this ſtone he ſhall be broken, but on whomſoever it ſhall fall it will daſh him to pieces.</hi>
+               </p>
+               <p>Take heed therefore (beloved) of juſtling Chriſt, either <note place="margin">Math. 21. 44.</note> by your contemptuous mocking of his ſervice: or diſdain<g ref="char:EOLhyphen"/>ful deriding of his ſervants, leſt the like confuſion ſeaze on you, that ſometime fell on <hi>Julian</hi> that juſtling Apoſtata, which conſtrained him in horrour of heart to confeſs and to cry out, <note place="margin">
+                     <hi>Sozom.</hi>
+                  </note> 
+                  <hi>Viciſti Galilee, viciſti Galilee.</hi>
+               </p>
+               <p>Thirdly, A third reaſon why Chriſt is reſembled un<g ref="char:EOLhyphen"/>to a Rock, is becauſe that hence did refreſhing water ſometimes guſh out and that in abundance for the miracu<g ref="char:EOLhyphen"/>lous releife of the children of <hi>Iſrael</hi> in the dry and thirſty wilderneſs. <hi>And Moſes lift up his hand and with his Rod he ſmote the Rock twice, and the water came out abun<g ref="char:EOLhyphen"/>dantly.</hi> 
+                  <note place="margin">Numb. 20. 11 Pſ. 78. 15, 16 Wiſdom 11. 4</note> 
+                  <hi>He cleft the Rock in the wilderneſs, and gave them drink as out of the great depth. He brought floods alſo out of the ſtony Rock, ſo that it guſhed out like the Rivers:</hi> ſo the <hi>Pſalmiſt.</hi> And again, when they were thirſty, they call<g ref="char:EOLhyphen"/>ed upon thee and water was given them out of the high Rock, and their thirſt was quenched out of the hard ſtone.
+<pb n="12" facs="tcp:101733:10"/> This, all this Saint <hi>Paul</hi> explaineth, and applyeth to Chriſt. <hi>And the Children of Iſrael did all drink the ſame ſpiritual drink for they drank</hi> (ſaith he) <hi>of that ſpiritual Rock that followed them, and that Rock was Chriſt.</hi>) This <note place="margin">1 Cor. 10. 4</note> Rock was ſtruck for our tranſgreſſions, and broken for our iniquities, as the Prophet <hi>Iſaiah</hi> ſaith. From whence floweth unto all Gods children that live in the dry and thirſty wilderneſs of this wicked world, moſt large re<g ref="char:EOLhyphen"/>freſhing <note place="margin">Iſa. 53. 5.</note> ſtreams of living water, <hi>Salientes in vitam ae<g ref="char:EOLhyphen"/>ternam,</hi> ſpringing up unto everlaſting life: as our Savi<g ref="char:EOLhyphen"/>our Chriſt himſelf telleth us.</p>
+               <p>As therefore the children of <hi>Iſrael</hi> in their dry neceſſi<g ref="char:EOLhyphen"/>ties quenched their ſouls with the ſweet ſtreams that <note place="margin">Jo. 4. 14.</note> iſſued out of that typical Rock in the wilderneſs: So let us beloved, in all our dry dolours and thirſty diſtreſſes, run unto this Rock of Chriſt, refreſh our parched ſouls. <note place="margin">Pſal. 46. 1.</note> with the living fountains of his holy Goſpel, and quench our thirſty hearts with the moſt comfortable waters of his evangellical promiſe.</p>
+               <p>Fourthly and Laſtly, Chriſt is reſembled to a Rock, becauſe a Rock is a receptacle for innocent Doves to pre<g ref="char:EOLhyphen"/>ſerve them in ſafety from the piercing claws of devouring Birds; ſo likewiſe is our Saviour Chriſt a receptacle for all faithful, ſimple, meek, harmleſs, Dove-like Chriſti<g ref="char:EOLhyphen"/>ans, to defend them from the raging malice of all the malignant Kites of the World that would devour them; he, he is the Rock of our ſalvation, and preſent help in trouble. A Rock (beloved) beyond the reach of all, though never ſo malevolent adverſaries, in whoſe cliffs the Dove like-Chriſtian abides moſt ſafely, on which he builds moſt ſurely: <hi>Statuit<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fundamentum ſuper petram, And laid his foundation on a Rock.</hi>
+               </p>
+               <p>
+                  <hi>Obſ.</hi> It is then you ſee the duty of every good Chri<g ref="char:EOLhyphen"/>ſtian not to build on merits, but to lay their foundation on a Rock: not to truſt confidently in their own deſerts, but to rely faithfully on Chriſts deſervings. The Father
+<pb n="13" facs="tcp:101733:10"/> of the faithful built not on merrits, <hi>But laid his foundati<g ref="char:EOLhyphen"/>on</hi> 
+                  <note place="margin">Gen. 15. 6</note> 
+                  <hi>a Rock:</hi> For <hi>Abraham believed in God, and that was accounted to him for righteouſneſs.</hi> Behold, he that lift<g ref="char:EOLhyphen"/>eth up himſelf, his minde is not upright in him, but the <note place="margin">Habac. 2. 4.</note> juſt ſhall live by his faith. To truſt then in our ſelves, or in any worldly thing beſides, is never to be at quiet: The only reſt is to rely upon God by faith (for being ju<g ref="char:EOLhyphen"/>ſtified by faith <hi>we have peace with God, through Jeſus</hi> 
+                  <note place="margin">Rom 5. 1.</note> 
+                  <hi>Chriſt our Lord.</hi>
+               </p>
+               <p>The reaſon of the point, or cauſe why Gods children ought not to rely on good works is evident; <hi>For by faith</hi> 
+                  <note place="margin">2 Cor. 1. 24 Gal. 2. 16</note> 
+                  <hi>ye ſtand</hi> ſaith the Apoſtle. And again, <hi>We know that a man is not juſtified by the works of the Law, but by the faith of Jeſus Chriſt,</hi> ſo the ſame Apoſtle. <hi>Be it known unto you therefore men and brethren, that through this man is preach<g ref="char:EOLhyphen"/>ed unto you the forgiveneſs of ſins, and from all things which ye could not be juſtified by the Law of Moſes, by him eve<g ref="char:EOLhyphen"/>ry one that beleiveth is juſtified,</hi> ſo Saint <hi>Paul.</hi> 
+                  <note place="margin">Act. 13. 38, 39</note>
+               </p>
+               <p>Good reaſon therefore have we, to diſtruſt our ſelves and to diſclaim our own righteouſneſs, ſeeing that in us there dwelleth no good thing; ſeeing we are all gone out of the way, and that there is <hi>none that doth good, no not</hi> 
+                  <note place="margin">Rom. 7. 18 Pſal. 14. 3 Iſa. 64. 6.</note> 
+                  <hi>one:</hi> In a word, ſeeing that we have all been as an un<g ref="char:EOLhyphen"/>clean thing, and all our righteouſneſs as filthy cloutes. And great reaſon have we to lay the foundation of our faith on the Rock of Chriſts merrits, who of God is made <hi>unto us wiſdom, ſanctification, righteouſneſs and redempti<g ref="char:EOLhyphen"/>on</hi> as Saint <hi>Paul</hi> expreſsly telleth us. <note place="margin">1 Cor. 1. 30</note>
+               </p>
+               <p>
+                  <hi>Applic.</hi> How groſſely then do they erre, that forſaking this Rock, faſten their foundation chiefly on the fickle ſand of good works, and that as <note place="margin">
+                     <hi>Maldon in loc.</hi> Rom. 7. 24.</note> 
+                  <hi>Firmiſſimum ſalutis ſuae fundamentum,</hi> as <hi>Maldonat</hi> the <hi>Jeſuite</hi> on this place. Whenas (alaſs) who knows not how miſerable, and how wretched we are in our ſelves, carrying alwayes about us, no leſs than a body of death, from which with the Apoſtle we may well cry out, <hi>who ſhall deliver us? If</hi>
+                  <pb n="14" facs="tcp:101733:11"/> 
+                  <hi>therefore I would juſtifie my ſelf</hi> (ſaith <hi>Job</hi>) <hi>mine own mouth ſhall condemn me, if</hi> I <hi>would be perfect, he ſhall judge</hi> 
+                  <note place="margin">Job 9. 20.</note> 
+                  <hi>me wicked.</hi> And again, <hi>If God found no ſteadfaſtneſs in his ſervants, but layed folly upon his Angels, how much more in them that dwell in houſes of clay, whoſe foundation is in the duſt?</hi> Well therefore may we pray, even the beſt of <note place="margin">Job 4. 18, 19</note> us all, with holy <hi>David, Ne intres in judicium domine, Enter not into judgment O Lord with thy ſervant, for in thy ſight ſhall no man living be juſtified.</hi> For indeed (beloved) <note place="margin">Pſal. 143. 2.</note> the moſt perfect keeping of the Law, and the exacteſt obſervation of Gods commandments that can in this life, by any be performed, deſerveth in it ſelf, no reward, nor can it of it ſelf profit us to juſtification; for when we have done all thoſe things which are commanded, our Saviour Chriſt himſelf, hath yet wiſhed us to confeſs, that we are ſtill <hi>but unprofitable ſervants.</hi> And if unprofitable <note place="margin">Luke 17. 10</note> then, when we have done all that is commanded us, ſee<g ref="char:EOLhyphen"/>ing we have done no more than was our duty to do; how much more unprofitable, how much more un<g ref="char:EOLhyphen"/>deſerving are our weak endeavours, which come ſo ſhort of fulfilling the leaſt commandment? Hence Saint <hi>Ber<g ref="char:EOLhyphen"/>nard,</hi> 
+                  <note place="margin">
+                     <hi>Ber. Ser.</hi> 52</note> 
+                  <hi>Hoc totum hominis meritum, ſi totam ſpem ſuam ponat in eo qui totum ſalvum fecit: ſufficit ad meritum ſcire, quod non ſufficiant merrita.</hi> This is the whole merit of man, if he put his whole confidence in him that ſaved him: it is merit enough to know, that merits are not available. <hi>For grace ye are ſaved through faith</hi> (ſaith the Apoſtle) <hi>and that not of your ſelves it is the gift of God, not</hi> 
+                  <note place="margin">Eph. 2. 8.</note> 
+                  <hi>of works, leaſt any man ſhould boaſt himſelf.</hi> Hence Saint <hi>Auguſtin,</hi> 
+                  <note place="margin">Saint <hi>Aug.</hi>
+                  </note> 
+                  <hi>Quiſquis tibi enumerat vera merrita ſua, quid tibi enumerat niſi muneratua?</hi> Whoſoever numbreth, or reckoneth up his merits unto thee: what doth he number or recount to thee, but thy gifts unto him?</p>
+               <p>Let Papiſtical merit mongers therefore (if they will) brag ſtill of the condignity, and boaſt yet of the congruity of their good works; we with the Apoſtle, will through the ſpirit, wait for the hope of righteouſneſs through
+<pb n="15" facs="tcp:101733:11"/> faith. Let them I ſay, go if they pleaſe, unto the All<g ref="char:EOLhyphen"/>mighty clad in the polluted garments of their own righ<g ref="char:EOLhyphen"/>teouſneſs, with a <hi>Da mihi quod merui:</hi> We like true <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi> will expect our heavenly fathers bleſſing in the perfumed garments of our elder brother: In a word let them (if they will) like ſuperficial Carpenters content themſelves with ſpecious ſtructures, on ſandy foundations, we like ſubſtantial Builders, will comfort our ſelves with ſollid erections on ſure foundations, <note place="margin">
+                     <hi>Hofm.</hi>
+                  </note> 
+                  <hi>Profecto ſtulti ſunt, qui tantum aedificant ſplendide, &amp; non utiliter: Et ſtulti ſunt qui ſibi ſatisfactum putant, ſi ſolum numerentur, inter Electos, etiamſi non numerentur cum electis,</hi> ſo <hi>Hofmiſter.</hi> Truely (ſaith he) they are fooles who build only for ſhew and not for profit, and they are fooles that think it e<g ref="char:EOLhyphen"/>nough for themſelves to be accounted here of the Elect, although hereafter for want of a good foundation, they be not numbred with the Elect. It is the root (beloved) that ſuſteines the tree, and the foundation that ſupports the building. <note place="margin">
+                     <hi>Stella.</hi>
+                  </note> 
+                  <hi>Structura quamvis exterius magnifica ſit, &amp; altitudine excellens, firma tamen non erit niſi ſolido fir<g ref="char:EOLhyphen"/>mo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> nitatur fundamento,</hi> ſo <hi>Stella.</hi> The building (ſaith he) be it never ſo ſumptuous, never ſo ſtately, never ſo lofty, yet will it not be ſtable, unleſs it be grounded on ſome ſollid and firm foundation. Our ſpiritual build<g ref="char:EOLhyphen"/>ing in like manner, be it never ſo ſpecious, be it never ſo glorious to the eye of the world, yet will it not be <note place="margin">1 Tim. 6. 12, 19</note> permanent, except it be grounded on a firm foundation: unleſs its foundation be laid upon a Rock: <hi>Statuit<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fun<g ref="char:EOLhyphen"/>damentum ſupra petram: And laid his foundation on a Rock.</hi>
+               </p>
+               <p>Dig not, O dig not then to your ſelves any longer broken ciſterns that will hold no water, build no longer on ſandy foundations, that will withſtand no weather, <hi>but fight the good fight, and lay the good foundation,</hi> that when the waters do ariſe, and the floods do beat upon your buildings, they may not ſhake them: which is the fourth thing by which a ſincere Chriſtian is in my Text deſcribed: Namely by the perils and dangers immedi<g ref="char:EOLhyphen"/>ately
+<pb n="16" facs="tcp:101733:12"/> enſuing his diſcretion in laying his foundation on a Rock; and comes now next in order to be ſpoken of.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <q>And when the waters aroſe the flood beat upon that Houſe.</q>
+               </head>
+               <p>A true Chriſtian can no ſooner be built upon the Rock, but he muſt inſtantly look for ſtorms of affliction; a true convert can no ſooner be ingrafted into Chriſt, but he muſt ſuddenly expect to undergo the Croſs: Gods Elect children can no ſooner lay their foundation on this Rock of Chriſt, but preſently the bitter waters of diſtaſteful affli<g ref="char:EOLhyphen"/>ctions will ariſe, yea, and the ſorrowful floods of horrid tentations will beat upon their buildings. Is Saint <hi>Paul</hi> 
+                  <note place="margin">2 Cor. 12. 7. Pſal. 102. 3, 4, 5, 6. John 6. 4. 7</note> built upon this Rock? <hi>He ſhall have a thorn in the fleſh, a meſſenger of Satan to buffet him.</hi> Is <hi>David a man after Gods own heart? He ſhall be much perplexed with many miſeries. Is Job an upright man in the Land of <g ref="char:V">Ʋ</g>z, He ſhall ſuffer many afflictions.</hi> In a word, as <hi>Paul</hi> when he came to <hi>Macedonia,</hi> ſo we, even every one of us, ſo ſoon as we look towards <hi>Jeruſalem</hi> which is above; ſo ſoon as we make a conſcience of ſin, we ſhall be troubled on every ſide: fightings without and terrours within: fightings without with open and profeſſed enemies to <note place="margin">2 Cor. 7. 5</note> the truth, and fears within from falſe brethren, fighting without by the continual aſſaults of outward tentations, and fears within by ſpiritual derilictions, and conflicts with deſpair.</p>
+               <q>
+                  <l>
+                     <hi>Nunquam bella bonis, nunquam diſſidia ceſſant.</hi>
+                  </l>
+                  <l>
+                     <hi>Et quoeum certet, mens pia ſemper habet.</hi>
+                     <note place="margin">
+                        <hi>Proſper.</hi>
+                     </note>
+                  </l>
+               </q>
+               <q>
+                  <l>With wars inteſtine are the godly alwayes preſt,</l>
+                  <l>And pious minds with ſomething do conteſt.</l>
+               </q>
+               <p>To ſuch conflicts and aſſaults the deareſt of Gods chil<g ref="char:EOLhyphen"/>dren are ſubject in this their pilgrimage here, and if you would have a reaſon for it, it is evidently this, <hi>viz.</hi> be<g ref="char:EOLhyphen"/>cauſe they are now become the devils open enemies, they
+<pb n="17" facs="tcp:101733:12"/> muſt therefore look to be aſſaulted, both by ſtratagems and violence. The devil like a cunning fowler, ſpreads his nets, for them only that are out of his clutches, not for them that are in his own cuſtody. No Prince maketh warre with his Loyal Subjects. The wicked are as ſure as temptation can make them: to them therefore he ſpeaks as freindly as <hi>Holofernes</hi> ſometime did to <hi>Judeth: Fear not in thine heart, for I never hurt any that would ſerve Nebuchadnezzar the King of all the earth;</hi> ſo he al<g ref="char:EOLhyphen"/>ſo, I never moleſt any that are content to ſerve me, <hi>the Prince of the preſent world, as he is termed, Jo.</hi> 14. 30.</p>
+               <p>
+                  <hi>Q But why may ſome man ſay, doth God permit the wa<g ref="char:EOLhyphen"/>ters of affliction to ariſe, and the floods of temptations thus to beat upon his childrens buildings?</hi>
+               </p>
+               <p>A. Truely beloved the reaſons for it are many, but I will ſatisfie my ſelf, and I hope content you alſo with theſe three following.</p>
+               <p>Firſt, God ſuffereth the waters of affliction thus to ariſe againſt his own children, that he might the better manifeſt his anger againſt ſin, that all may take notice if he ſpare not his own children, but and if judgment begin at their houſes, what the wicked may, nay what they muſt expect, and where the ungodly ſhall think to appear.</p>
+               <p>Secondly, Therefore doth God permit the floods of temptations to beat upon his childrens buildings, that he might thereby manifeſt unto the world the fidelity of his choſen; <hi>now I know,</hi> ſaith God to <hi>Abraham, that thou feareſt God:</hi> Not that God was ignorant of this be<g ref="char:EOLhyphen"/>fore his bitter tryal of him, by commanding him to ſa<g ref="char:EOLhyphen"/>crifice his only Son, but that by this fact of his, he might make known that his obedience unto others. God by this extraordinary act of ſelf-denyal, made <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> faith and obedience manifeſt to others. Not unfit<g ref="char:EOLhyphen"/>ly therefore are Gods children likened to ſpices, whoſe odoriferous ſavour is then ſtrongeſt ſmelt, when they are
+<pb n="18" facs="tcp:101733:13"/> ſoundlieſt pounded. <note place="margin">Saint. <hi>Greg.</hi>
+                  </note> 
+                  <hi>Virtus per quietem ſe exercuit in Job, ſed virtutis opinio commota per flagella fragravit</hi> ſaith Saint <hi>Gregory.</hi>
+               </p>
+               <p>Thirdly, and laſtly, therefore doth God permit both the waters of affliction to ariſe, and the floods of tempta<g ref="char:EOLhyphen"/>tion alſo to beat upon his childrens buildings, that he might preſerve them in ſafety from that great gulf of pre<g ref="char:EOLhyphen"/>ſumptuous ſecurity, and that he might keep them from the ſtragling by paths of eternal deſtruction, who other<g ref="char:EOLhyphen"/>wiſe <note place="margin">Pſal. 119. 67.</note> would be too too apt to ſtart aſide, and with <hi>David</hi> before his affliction to go aſtray, the beſt ground untlled ſooneſt runs out into rankeſt weeds: Such are Gods chil<g ref="char:EOLhyphen"/>dren, ſudenly overgrown with ſecurity ere they are aware, unleſs they be often exerciſed with Gods plough of af<g ref="char:EOLhyphen"/>fliction. <note place="margin">
+                     <hi>Greg.</hi> in <hi>Mor.</hi>
+                  </note> 
+                  <hi>Electis ſuis ad ſe pergentibus dominus hujus mun<g ref="char:EOLhyphen"/>di iter aſperum facit, ne dum quiſque vitae preſentis requie, quaſi viae amenitate paſcitur, magis eam diu pergere, quam citius pervenire delegit: ne dum oblectatur in via, ob<g ref="char:EOLhyphen"/>liviſcatur quod deſiderabat in patria:</hi> ſo Saint <hi>Gregory.</hi> God (ſaith he) permitreth his childrens pilgrimage here to be very bitter, and extream ſharp, leaſt any of them ſhould be ſo far in love with the pleaſantneſs of the path, as to forget what they ſo earneſtly deſired in their country to come. Croſſes therefore though in themſelves they be bitter arrows, yet are they ſhot from a loving hand, and <note place="margin">1 Sam 20. 10</note> therefore become like to <hi>Jonathans</hi> ſometime ſhot to <hi>David,</hi> ſerving only for directing caveats. <hi>Apollonius</hi> writeth of certain people, that could ſee nothing in the day, but only in the night. Many Men I am ſure, are ſo blinded in the Sunſhining day of proſperity, that they then ſee nothing belonging to their good, only in the night of miſery are their eyes open, and to them <hi>Schols crucis</hi> is converted into <hi>Scholam lucis:</hi> which is the third and laſt cauſe I mentioned why God permits the waters of affliction to ariſe, and the floods of ſorrows ſometimes to beat upon his childrens buildings. From which I paſs unto the reaſons why afflictions (as I conceive) are here
+<pb n="19" facs="tcp:101733:13"/> and elſewhere too in Scripture compared to waters, which are likewiſe theſe three following.
+<list>
+                     <item>Firſt, <hi>Propter confluentiam.</hi> For their confluency.</item>
+                     <item>Secondly, <hi>Propter utilitatem.</hi> For their utility.</item>
+                     <item>Thirdly, <hi>Propter ſalſitudinem.</hi> For their ſaltneſs.</item>
+                  </list>
+               </p>
+               <p>Firſt, I ſay for their confluency: for as one waye fol<g ref="char:EOLhyphen"/>loweth, and falls on the neck of another, even ſo do af<g ref="char:EOLhyphen"/>flictions in the righteous purſue each other: <hi>One deep calleth another</hi> as the <hi>Pſalmiſt</hi> ſpeaks: They come ſo thick upon them as ſtormy waves at ſea: a perſpicuous <note place="margin">Pſal. 42 7.</note> example of this we have in <hi>Job</hi> while he was yet ſpeaking (ſaith the Text) came anoth<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r; and then while he was yet ſpeaking came another: and again while he was yet ſpeaking came another, <hi>&amp;c.</hi> We live here beloved in an <note place="margin">Job. 1. 16, 17, 18.</note> ocean of troubles, wherein we can ſee no firm Land: One wave falling on the neck of another ere the former have wrought all his ſpight; miſcheifs ſtrive for places as if they feared to loſe their roome, if they haſted not: this for their confluency.</p>
+               <p>Secondly, afflictions are likened to waters in regard of their utility, in reſpect of their profit; for as the one ſerves to cleanſe the outward, ſo doth the other ſerve to purge the inner man. <hi>Davids</hi> experience ſhall be a ſufficient proof of their utility, in this reſpect who by them was reduced from his erroneous ſtraglings, to a conſtant keep<g ref="char:EOLhyphen"/>ing of Gods commandments. Neither are waters profita<g ref="char:EOLhyphen"/>ble onely for purgation, nor afflictions onely for reſtau<g ref="char:EOLhyphen"/>ration, but both alſo for tranſportation. For as without <note place="margin">Pſ. 119. 67.</note> the benefit of water, we cannot paſs into another country as <hi>France, Spain,</hi> or <hi>Italy;</hi> ſo neither can we paſs from hence to Heaven, without the benefit of affliction: there is no going thither unleſs we ſaile through the ſalt waters of affliction: witneſs that holy Apoſtle who conſtantly averreth, <hi>That we muſt through many afflictions enter in<g ref="char:EOLhyphen"/>to the Kingdome of God.</hi> But happy beloved, yea thrice <note place="margin">Acts 14. 22.</note>
+                  <pb n="20" facs="tcp:101733:14"/> happy are thoſe miſhaps that make a way to a greater per<g ref="char:EOLhyphen"/>fection: and this for their utility.</p>
+               <p>Thirdly and laſtly, afflictions are reſembled to waters, becauſe of their ſaltneſs and harſhneſs to be endured. See water though for curing of the itch and many other things it be very ſoveraign, yet by reaſon of its extream ſaltneſs it is very unwelcome unto moſt mens pallates. Afflictions in like manner though they are very wholſome and profitable to heal all ſpiritual diſeaſes in regenerate men and therefore in one place eſpecially <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommended by the Apoſtle for the curing of itching eares. Yet are they allſo ſalt and harſh, very diſtaſtful and wondrous dif<g ref="char:EOLhyphen"/>ficult to be endured even of the very beſt of Gods chil<g ref="char:EOLhyphen"/>dren; <note place="margin">2 Tim. 4. 3.</note> we need not travail any further for an example of this than to our Saviour Chriſt himſelf whoſe words were theſe, <hi>Father if it be poſſible let this cup paſs from</hi> 
+                  <note place="margin">Math. 26. 39.</note> 
+                  <hi>me.</hi> The way to Heaven beloved, is by the gates of Hell, and like that which <hi>Jonathan</hi> and his Armour-bearer <note place="margin">1 Sam. 14. 13.</note> paſſed, Rocky, Foul and Thorny. No ſooner do the wa<g ref="char:EOLhyphen"/>ters ariſe, but preſently the Floods do beat upon the houſe; <hi>And when the waters aroſe, the flood beat upon that houſe.</hi>
+               </p>
+               <p>A threefold Flood I find that beateth upon all Gods childrens houſes.
+<list>
+                     <item>Firſt, A Flood of ſin.</item>
+                     <item>Secondly, A Flood of ſorrow, and</item>
+                     <item>Thirdly, A Flood of godly anger.</item>
+                  </list>
+               </p>
+               <p>Firſt, A Flood of ſin: <hi>I know my iniquities,</hi> (ſaith <hi>Da<g ref="char:EOLhyphen"/>vid</hi>) <hi>and my ſin is ever before me, And O wretched man that I am</hi> (ſaith Saint <hi>Paul</hi>) <hi>who ſhall deliver me from this</hi> 
+                  <note place="margin">Pſal. 51. 3. Rom. 7. 24.</note> 
+                  <hi>body of death?</hi> There is a Flood of ſin.</p>
+               <p>Secondly, A Flood of ſorrow: <hi>I ſay the truth in Chriſt, I lye not, my Conſcience bearing me witneſs in the holy Ghoſt, that I have great heavineſs and continual ſorrow in</hi> 
+                  <note place="margin">Rom. 9. 1.</note> 
+                  <hi>my heart:</hi> So the ſame Apoſtle. Theſe two like <hi>Hypocra<g ref="char:EOLhyphen"/>tes</hi>
+                  <pb n="21" facs="tcp:101733:14"/> twins, go alwayes hand in hand; there was never ſin without ſorrow, nor ever ſorrow without ſin. All diſho<g ref="char:EOLhyphen"/>neſt actions, are but earneſts laid down for ſucceeding ſor<g ref="char:EOLhyphen"/>rows.</p>
+               <p>Thirdly, the third kinde of flood that beateth on Gods childrens houſes is the flood of Gods anger: And of this the Prophet <hi>David</hi> complaineth thus: <hi>Thine indignation</hi> 
+                  <note place="margin">Pſal 88. 6.</note> 
+                  <hi>lyeth hard upon me, and thou haſt vexed me with all thy ſtorms.</hi> This flood of Gods fury hath much beaten upon us, and that for many yeares together. You cannot for<g ref="char:EOLhyphen"/>get that fearful flood of civil war and inteſtine diſſentions <note place="margin">Jer. 48. 12. 2 Sam. 21. 17.</note> amongſt us: <hi>When God ſent unto us</hi> (as he did unto <hi>Mo<g ref="char:EOLhyphen"/>ab</hi>) <hi>ſuch as emptyed our veſſels and brake our bottles, and quenched (for a time) the light of our Iſrael.</hi> You muſt needs remember the next flood of forraine War at Sea, that beat ſo ſorely againſt our buildings. You cannot forget the next flood of Plague and Peſtilence that ſwept away ſo many thouſands. And to name no more at preſent, you muſt needs remember that fiery flood of Gods fury: <hi>Flu<g ref="char:EOLhyphen"/>vius</hi> 
+                  <note place="margin">Dan. 7. 9. 10.</note> 
+                  <hi>igneus rapiduſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> as the Prophet <hi>Daniel</hi> expreſſeth and renders it, ſhewing the inevitable and conſuming force of Gods Judgments. You cannot I ſay, forget that fiery flood that but lately beat down ſo many ſtately buildings in the Metropolitan City of this Kingdome. Well, what good effect have all theſe floods produced in us all this while? What amendment is there in the rich? What reformation is there in the poor? Alaſs, alaſs, but ſmall I fear: For who doth not ſee what a deluge of pro<g ref="char:EOLhyphen"/>phaneſs and impiety doth yet overflow the Land? Are not Gods good creatures too too much ſtill abuſed in ſurfeiting and drunkenneſs? in rioting and wantonneſs, in ſtrife and envying? Are not people ſtill as prophane, ſtill as irri<g ref="char:EOLhyphen"/>ligious, ſtill as ungodly, ſtill as ſinful as ever? Lay it to heart beloved, and know, that the Lord hath more floods to power forth upon us, if theſe prevail not to reform us.</p>
+               <pb n="22" facs="tcp:101733:15"/>
+               <p>
+                  <note place="margin" type="runSum">Applic. to the Judg.</note> Give me leave, now (my Lord) firſt to addreſs my ſelf to your Lordſhip, for the begging of your aſſiſtance, to prevent the future floods of Gods anger from falling on us, and that by your impartial diſtribution of Juſtice; you are ſet in Gods place, you are to walk in Gods path, and to be a follower of him, who is no proſopoleptick, <hi>with whom there is no reſpect of perſons.</hi> Let me (I beſeech you) move you to that which you both know, and I <note place="margin">Rom. 2. 11.</note> preſume are ready to put in practiſe alſo; you know the ſaying of the Poet.
+<q>
+                     <l>
+                        <hi>Qui rogat ut facias, quod jam facis, ipſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ogando</hi>
+                     </l>
+                     <l>
+                        <hi>Laudat, &amp; hortatu comprobat acta <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uo.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>I ſhall only add good <hi>Jehoſaphats</hi> caveat to the Judges <note place="margin">Chr. 19 6.</note> in his time, which is this; <hi>Take heed what ye do, for ye ex<g ref="char:EOLhyphen"/>ecute not the Judgment of man, but of the Lord, and he will be with you in the cauſe and Judgment,</hi> that is, he will be with you, to preſerve you if you do juſtly, or elſe he will be with you, to puniſh you, if you do the contrary.</p>
+               <p>
+                  <note place="margin" type="runSum">To the Sheriff</note> Next a word to you Mr. Sheriff, for your aſſiſtance al<g ref="char:EOLhyphen"/>ſo to prevent the future floods of Gods anger from fall<g ref="char:EOLhyphen"/>ing on us; <note place="margin">Ezek. 17. 18, 19. and Mat. 5. 33.</note> and to this end let me requeſt you Sir to know your place, and to conſider your oath, look to your un<g ref="char:EOLhyphen"/>der officers that they abuſe not poor men with exactions, nor the Country with exorbitancies.</p>
+               <p>
+                  <note place="margin" type="runSum">To the Iuſti<g ref="char:EOLhyphen"/>ces.</note> Next I turn to you (much honoured Juſtices and Gen<g ref="char:EOLhyphen"/>tlemen) let me I beſeech you, crave your aſſiſtances alſo herein; which that you may the better afford, I pray be pleaſed to call to mind your ſeveral oathes, remember to what you are ſworn, and be not remiſs, nor negligent in the performance of them. You have good Law and Au<g ref="char:EOLhyphen"/>thority to puniſh ſwearing, whoring, drunkenneſs, pro<g ref="char:EOLhyphen"/>phanation of the Lords day, and other enormities: Oh have a zeal for the due execution of ſuch good Laws. When any come to you for juſtice againſt ſuch offences,
+<pb n="23" facs="tcp:101733:15"/> put them not off with <hi>Gallio</hi> that deputy of <hi>Achaia, who would be judge of no ſuch matters.</hi> Gentlemen you are call<g ref="char:EOLhyphen"/>ed <hi>(Sheilds) Pſ.</hi> 47 9. <hi>The Sheilds of the earth belong un<g ref="char:EOLhyphen"/>to God,</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith the <hi>Pſalmiſt.</hi> Your place is to ſtand between <note place="margin">Acts 18. 15.</note> God and the people, and by your timely cenſuring and puniſhing of known ſins, to prevent the floods of publick plagues from flowing in upon the Land wherein ye live. You are termed alſo <hi>(Healers) Would God you would go to the quick, and heal our breaches in the cauſes thereof.</hi> Town and Country are ſick of ſeparation, and ſwarm with ſciſmaticks, that in things but ceremonial peeviſh<g ref="char:EOLhyphen"/>ly ſpurn at the grave authority of the Church; and out of a needleſs nicety are theives to themſelves of thoſe be<g ref="char:EOLhyphen"/>nefits which God hath allowed them, Good Laws there are to reclaim them, to ſuppreſs their Conventicles, to re<g ref="char:EOLhyphen"/>ſtrain their ſeditious ſpirits, but there is but little or no execution of them; <hi>Gallio</hi> careth not for theſe things. Gentlemen, it is not material how good a mans will be, if the executors, who are put in truſt, do not perform it. The Laws I may call Gods will, and the will of his vice<g ref="char:EOLhyphen"/>gerent (the King) it is no matter how good they be, if thoſe who appointed executors, neglect to put them in execution. In this caſe they are no better then ſcare<g ref="char:EOLhyphen"/>crows, which being ſet up in the fields by Husbandmen to keep away birds, at the firſt view are ſomewhat terri<g ref="char:EOLhyphen"/>ble to the fowles, but after a while ſeeing them ſtill in the ſame place, and doing nothing, they make bold with them and ſit on their heads, yea and worſe then that too. So beloved, the Laws though never ſo dreadful at firſt if they be not duely executed by them that are in place<g ref="char:punc">▪</g> to do it, they grow in contempt, and give occaſion to re<g ref="char:EOLhyphen"/>fractory ſpirits to go on with boldneſs in their perverſe and wilful wayes. You may take this from <hi>Solomon,</hi> who well obſerved it, and tells you, <hi>That where ſentence is not executed ſpeedily againſt an evil work, the hearts of the ſons of men, are fully ſet in them to do evil.</hi> Where Juſtice is delayed, there ſin reigneth. And will not this bring a flood upon us think you in the end, if not timely prevent<g ref="char:EOLhyphen"/>ed?
+<pb n="24" facs="tcp:101733:16"/> Liberty hath loſt us many already, and will loſe us more yet if it be not looked to in time, Gentlemen.</p>
+               <p>In the name of God therefore let me implore your helps: <hi>O men of Iſrael help!</hi> Be you I beſeech you <hi>Priſ<g ref="char:EOLhyphen"/>cilla's</hi> and <hi>Aquila's, helpers in Chriſt Jeſus:</hi> So ſhall ye be <note place="margin">Rom. 16. 3.</note> Epinetuſſes too, even praiſe worthy for it: So ſhall ye be <hi>Portae &amp; introitus aliorum,</hi> as Saint <hi>Chryſoſtome</hi> well ob<g ref="char:EOLhyphen"/>ſerves on <hi>Rom.</hi> 16. 5. ſo ſhall ye be Ports, Gates, good paſſages, and ſafety inlets to many poor ſouls, that elſe might periſh through peeviſh ſelf-willedneſs. Oh beloved, that you would be of good <hi>Joſiahs</hi> temper to take away the abomination of ſtubborn ſeparation, from all that are under your ſeveral juriſdictions! That you would do as he did, <hi>Even compel them to ſerve the Lord their God, in the</hi> 
+                  <note place="margin">2 Chron. 34. 33. Prov. 19. 25.</note> 
+                  <hi>unity and uniformity of his divine worſhip. Smite a ſcorner, and the ſimple will beware,</hi> ſaith <hi>Solomon. And that man that will do preſumptuouſly, not hearkning unto the Preiſt that ſtandeth before the Lord thy God to miniſter there,</hi> or <note place="margin">Deut. 17. 12, 13.</note> unto the Judge, <hi>that man ſhall dye, and thou ſhall take a<g ref="char:EOLhyphen"/>way evil from Iſrael. So all the people ſhall hear and fear and do no more preſumptuouſly. Hoc hominum genus</hi> (ſaith Learn<g ref="char:EOLhyphen"/>ed <hi>Paraeus</hi> commenting on the firſt Chapter of the ſecond Epiſtle to the <hi>Corinthians</hi>) <hi>Authoritate potius compeſcen<g ref="char:EOLhyphen"/>dum, quam longis diſputationibus refellendum.</hi> And thus (right Worſhipful) having (as breifly as I conveniently could) ſhewn you how you may, and ought to be by your actings, inſtrumental to prevent the future Floods of Gods anger from flowing in upon us, and in particular of that Flood of Anarchical confuſion impending over us: I ſhall <note place="margin">Luk. 14. 23</note> ſhut up my exhortation to you in the words and charge of that Maſter of the feaſt in Saint <hi>Lukes</hi> Goſpel. <hi>Go out into the highwayes and hedges, and compel nhem to come in, that the houſes of God may be filled.</hi>
+               </p>
+               <p>
+                  <note place="margin" type="runSum">To the Law<g ref="char:EOLhyphen"/>yers,</note> A word likewiſe to you Lawyers next (if at leaſt any of you have leiſure from your Chamber, to hear a word of Church-ſtruction) let me intreat your helps alſo to anticipate the future floods of Gods anger from falling on
+<pb n="25" facs="tcp:101733:16"/> us; and to this purpoſe, be pleaſed I pray to ruminate upon the end of your profeſſion: <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> It is not you know, to ſow diffenſion: It is not to widen differences, neither is it to fill your own coffers, nor yet to ſhew your ready wits, and voluble tongues in ſpeaking proba<g ref="char:EOLhyphen"/>bly of every ſubject good or bad; no, no, the end of your profeſſion, is to help every man to his right, to cut off ſtrife and contention, and to reſtore peace and unity in the Common-wealth. Let not your mouthes therefore be corrupted, let them not prove like the Oracle of <hi>Delphos,</hi> of which <hi>Demoſthenes</hi> complained in his time, that it did <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſpeak nothing but what <hi>Philip</hi> who gave it a great fee would have it ſay. Be not (I beſeech you) of the number of <hi>Protagoraſses</hi> Scholars, whoſe profeſſion as <hi>Gellius</hi> tells us) was to teach, <hi>Quanam verborum induſtria cauſa infirmior, fieret fortior:</hi> How to make the worſe cauſe ſeem the better.</p>
+               <p>
+                  <note place="margin" type="runSum">To the wit<g ref="char:EOLhyphen"/>neſſes and Juries.</note> I muſt next direct my ſpeech to you that are to be Witneſſes, and to you alſo that are to be Juries, for your concurrance alſo to prevent the future floods of Gods anger from falling on us. For this cauſe, let me admoniſh you to take heed of your ſeveral oathes, conſider what you do, beware of bribery: deal uprightly in every caſe between <note place="margin">Jer. 22. 13 Deut. 17 11.</note> man and man, with every man without declining to the right hand, or to the left: <hi>So ſhall ye ſanctifie the name of God, by whom ye do ſwear to ſpeak truely: and ſo ſhall ye ſanctifie the name of God, by whom ye ſwear to deal truely and uprightly.</hi>
+               </p>
+               <p>Laſtly, a word unto all in general, and ſo an end; let us all (as we tender the good of our precious ſouls) be perſwaded to ſanctifie the Lord God in in our hearts: let us every day ſum up our accounts with God, and as <hi>Hierome</hi> ſaith, <hi>Ita aedificemus quaſi ſemper victuri, ita vi<g ref="char:EOLhyphen"/>vimus, quaſi cras morituri;</hi> Let us ſo build as if we were to live ever: and let us ſo live as if we were to dye to mor<g ref="char:EOLhyphen"/>row. And in ſo doing, though the waters do ariſe and ſwell horribly: yea, and though the floods do exalt themſelves and beat upon our buildings, yet they ſhall
+<pb n="26" facs="tcp:101733:17"/> not ſhake them: which is the fifth particular by which a ſincere Chriſtian is in my text deſcribed: namely, by the invalidity of all perils and dangers, in that they could not ſhake it: which ſhould now come in order to be ſpoken of; but I fear I have treſpaſſed too far already upon your patience.</p>
+               <p>Let us now therefore beg at the hands of God, that he would be pleaſed to work in the heart of every one of us, a holy deſire and a conſcionable care, to diſcharge our ſeveral duties in thoſe places which God hath put us. And to this end.</p>
+               <p>Lord grant, that the words which we have heard with our outward eares, may take deep impreſſion in our hearts, that they may bring forth in us the fruits of ſuch Chriſtian care and providence: The fruits of ſuch ſan<g ref="char:EOLhyphen"/>ctified pains and induſtry: and the fruits of ſuch ſaving wiſdom and diſcretion, that when the waters do ariſe, and when the floods do beat upon our buildings, they may not ſhake them; and this Lord we moſt humbly beg at thy merciful hands, for the merits of thy moſt dear Son, and our moſt loving Saviour the Lord Jeſus Chriſt: To whom with thee O Father and thy bleſſed Spirit, be aſcribed, as is moſt due, all Honour and Glory, Power and Dominion, Might and Majeſty, the reſt of this day and for evermore. Amen,</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
